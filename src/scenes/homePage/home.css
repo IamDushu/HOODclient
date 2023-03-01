@@ -1,0 +1,26 @@
+.topgun{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* border: 1px solid red; */
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.textt{
+    font-size: 18px;
+}
+
+.line{
+    width: 90%;
+    border:1px solid #f15b22;
+}
+.right{
+    flex: 50%;
+}
+
+.left{
+    flex: 50%;
+}
